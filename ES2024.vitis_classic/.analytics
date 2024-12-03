@@ -16,3 +16,5 @@ timestamp=[2024-12-03 09:28:55], mode=BUILD, duration=0:00:00.222, duration_ms=2
 timestamp=[2024-12-03 09:32:48], mode=APP_CREATION, duration=0:00:00.657, duration_ms=657, data={name=Sonar_example, project_type=sdk, os=standalone, processor=microblaze_0, runtime=C/C++, platform=baremetal, application_type=application}
 timestamp=[2024-12-03 09:56:13], mode=APP_CREATION, duration=0:00:00.650, duration_ms=650, data={name=Motor_example0, project_type=sdk, os=standalone, processor=microblaze_0, runtime=C/C++, platform=baremetal, application_type=application}
 timestamp=[2024-12-03 09:57:06], mode=APP_CREATION, duration=0:00:00.644, duration_ms=644, data={name=Motor_example1, project_type=sdk, os=standalone, processor=microblaze_0, runtime=C/C++, platform=baremetal, application_type=application}
+timestamp=[2024-12-03 13:23:46], mode=BUILD, duration=0:00:00.333, duration_ms=333, data={name=LightSensor_example, configuration=Debug, clean_build=false}
+timestamp=[2024-12-03 13:23:47], mode=BUILD, duration=0:00:00.225, duration_ms=225, data={name=LightSensor_example_system, configuration=Debug, clean_build=false}
