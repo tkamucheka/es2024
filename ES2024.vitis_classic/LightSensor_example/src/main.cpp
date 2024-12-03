@@ -4,14 +4,14 @@
 #include "xgpio.h"
 #include "xgpio_l.h"
 
-#define PMOD_LS1_BASEADDR XPAR_AXI_GPIO_PMOD_LS1_BASEADDR
+#define PMOD_LS1_BASEADDR XPAR_AXI_GPIO_LS_BASEADDR
 
 #define L_SENSOR 0x1
 #define R_SENSOR 0x2
 
 void delay_ms(int ms)
 {
-	for (int i = 0; i < 1500 * ms; i++)
+	for (int i = 0; i < 134 * ms; i++)
 		asm("nop");
 }
 
