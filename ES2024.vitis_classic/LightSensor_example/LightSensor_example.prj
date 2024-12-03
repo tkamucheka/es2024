@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="LightSensor_example" location="/mnt/Rogue/Projects/Vivado/ES2024/ES2024.vitis_classic/LightSensor_example" platform="/mnt/Rogue/Projects/Vivado/ES2024/ES2024.vitis_classic/baremetal/export/baremetal/baremetal.xpfm" platformUID="xilinx:arty-a7-100::0.0(custom)" systemProject="LightSensor_example_system" sysConfig="baremetal" runtime="C/C++" cpu="standalone_domain" cpuInstance="microblaze_0" os="standalone" language="CPP" mssSignature="dd410c2fd5fb03b73444161de01cac79">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.2122066605" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.1630017235" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>

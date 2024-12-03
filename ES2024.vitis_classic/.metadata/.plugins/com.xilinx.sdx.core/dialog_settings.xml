@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="sdx.custom.platform.repository.locations" value="/mnt/Rogue/Projects/Vivado/ES2024/ES2024.vitis_classic/baremetal/export/baremetal"/>
+</section>

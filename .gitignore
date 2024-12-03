@@ -1,0 +1,13 @@
+.Xil
+
+*.cache
+*.gen
+*.ip_user_files
+*.runs
+*.sim
+*.tmp
+
+*.zip
+*.log
+*.jou
+*.str
